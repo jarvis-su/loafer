@@ -2,7 +2,7 @@
 
 ## IDEA configuration files
 .idea
-
+*.iml
 
 ### Java template
 # Compiled class file
