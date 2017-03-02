@@ -11,6 +11,7 @@
     <properties>
         <springframework.version>4.3.7.RELEASE</springframework.version>
         <quartz.version>2.2.1</quartz.version>
+        <loafer-tools.version>1.0-SNAPSHOT</loafer-tools.version>
     </properties>
 
     <dependencies>
@@ -43,10 +44,9 @@
         </dependency>
 
         <dependency>
-            <groupId>junit</groupId>
-            <artifactId>junit</artifactId>
-            <version>4.11</version>
-            <scope>test</scope>
+            <groupId>jarvis</groupId>
+            <artifactId>loafer-tools</artifactId>
+            <version>${loafer-tools.version}</version>
         </dependency>
     </dependencies>
     <build>
