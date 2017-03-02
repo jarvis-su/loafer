@@ -4,6 +4,14 @@
 .idea
 *.iml
 
+.settings
+loafer-tools/.settings
+loafer-service/.settings
+loafer-app/.settings
+*.classpath
+*.project
+
+
 ### Java template
 # Compiled class file
 *.class
