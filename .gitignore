@@ -8,6 +8,7 @@
 loafer-tools/.settings
 loafer-service/.settings
 loafer-app/.settings
+loafer-api-service/.settings
 *.classpath
 *.project
 
@@ -29,6 +30,7 @@ loafer-app/.settings
 loafer-tools/target
 loafer-service/target
 loafer-app/target
+loafer-api-service/target
 
 *.jar
 *.war

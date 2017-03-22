@@ -11,6 +11,7 @@
     <modules>
         <module>loafer-tools</module>
         <module>loafer-service</module>
+		<module>loafer-api-service</module>
         <module>loafer-app</module>
 
     </modules>
